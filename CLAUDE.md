@@ -224,6 +224,10 @@ If a feature:
 
 …it probably does not belong.
 
+- Player may start in any city with an international airport
+- Starting city permanently anchors the loan shark and debt mechanics
+
+
 The game should feel like:
 
 **“The world keeps moving, and I’m already behind.”**
